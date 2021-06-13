@@ -1,0 +1,41 @@
+body {
+    background: rgb(240, 222, 230);
+    background: radial-gradient(circle, rgba(240, 222, 230, 1) 12%, rgba(246, 9, 109, 1) 80%);
+    text-align: center;
+    margin-top: 20px;
+    color: navy;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+.heading {
+    color: skyblue;
+    background-color: blueviolet;
+    font-size: 35px;
+    padding: 10px;
+    width: fit-content;
+}
+
+hr {
+    background-color: darkblue;
+    height: 5px;
+    width: 75%;
+
+}
+
+.object {
+    color: crimson;
+}
+
+#input,
+#output {
+    width: 350px;
+    height: 300px;
+    
+}
+#web{
+    width: 460px;
+    height: 400px;
+    border: 5px solid rgb(78, 6, 78);
+    padding:  30px;
+}
